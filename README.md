@@ -2,7 +2,7 @@
 
 ## About Me
 I am a dedicated and motivated individual currently pursuing a degree in Chemical Engineering at IIT Guwahati.
-Currently, I am expanding my knowledge in Deep Learning and Machine Learning, exploring their applications and potential.
+Currently, I am Learning Deep Learning and Machine Learning, exploring their applications and potential.
 
 
 <h3 align="left">Connect with me:</h3>
